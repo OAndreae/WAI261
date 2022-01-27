@@ -9,3 +9,5 @@ function Message () {
         </Box>
     )
 }
+
+export default Message;
